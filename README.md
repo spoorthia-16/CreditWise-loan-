@@ -14,9 +14,6 @@ Loan approval prediction system using supervised machine learning algorithms.
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Preview
-![Preview](creditwise-preview.png)
-
 ## Evaluation Metrics
 - Accuracy
 - Precision
